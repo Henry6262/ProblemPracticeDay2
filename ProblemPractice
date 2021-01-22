@@ -1,0 +1,96 @@
+package com.company;
+
+import java.util.Scanner;
+
+public class ProblemPractice {
+    public static void main(String[] args) {
+
+          //USD TO LEVA PROBLEM
+     //Scanner scan = new Scanner(System.in);
+     //double usd = Double.parseDouble(scan.nextLine());
+     //double leva = usd * 1.79549;
+     //System.out.print(leva);
+
+        //Radians to DEGREES
+        //Scanner scan = new Scanner(System.in);
+        //double radians = Double.parseDouble(scan.nextLine());
+        //double degrees = radians * 180/Math.PI;
+        //System.out.printf("%.0f", degrees);
+
+        //SELF MADE PROBLEM FOR PRACTICE OF "System.out.printf()"
+        //Scanner scan = new Scanner(System.in);
+        //System.out.println("Hello,what is your name?");
+       //String name =scan.nextLine();
+       //System.out.println("How old are you?");
+        //int age = Integer.parseInt(scan.nextLine());
+        //System.out.println("What was your grade on the final exam?");
+        //double grade = Double.parseDouble(scan.nextLine());
+        //System.out.printf("Your name is %s, you are %d years of age and your grade was %.0f", name, age, grade);
+
+        // CALCULATOR DEPOSIT PROBLEM
+        //Scanner scan = new Scanner(System.in);
+        //System.out.println("What amout would you like to deposit?");
+        //Double deposit = Double.parseDouble(scan.nextLine());
+        //System.out.println("time of the deposit");
+        //int months = Integer.parseInt(scan.nextLine());
+        //System.out.println("tax percentage per year");
+        //double tax = Double.parseDouble(scan.nextLine());
+        //double fullSum = deposit + months * (deposit * (tax / 100) / 12);
+        //System.out.println(fullSum + " is the amout that you would recieve ");
+
+        //VACATION BOOKS LIST PROBLEM
+        //Scanner scan = new Scanner(System.in);
+        //System.out.println("How many pages are in the book?");
+        //int bookPages = Integer.parseInt(scan.nextLine());
+        //System.out.println("How many pages do you read in a hour?");
+        //int pagesInOneHour = Integer.parseInt(scan.nextLine());
+        //System.out.println("For how many days do you want to finish reading the book?");
+        //int daysToRead = Integer.parseInt(scan.nextLine());
+        //int bookReadTime = bookPages / pagesInOneHour / (daysToRead);
+        //System.out.printf("You will have to read %d hours a day",bookReadTime );
+
+        //BIRTHDAY PROBLEM FOR TEST
+        //Scanner scan = new Scanner(System.in);
+        //int rent = Integer.parseInt(scan.nextLine());
+        //double cake = rent * 0.2;
+        //double drinks = cake - 0.45 * cake ;
+        //double animator = rent * ( 1.0 / 3.0 );
+        //double fullPrice = rent + cake + drinks + animator;
+        //System.out.println(fullPrice);
+
+        //CHARITY CAMPAIGN PROBLEM
+        //Scanner scan = new Scanner(System.in);
+        //int cake =  45;
+        //double waffle = 5.80;
+        //double panckake = 3.20;
+        //int campaignDays = Integer.parseInt(scan.nextLine());
+        //int bakers = Integer.parseInt(scan.nextLine());
+        //int cakesAmount = Integer.parseInt(scan.nextLine());
+        //int wafflesAmount = Integer.parseInt(scan.nextLine());
+        //int panckakesAmount = Integer.parseInt(scan.nextLine());
+        //double singleBaker = cake * cakesAmount + waffle * wafflesAmount + panckake * panckakesAmount;
+        //double allBakers = singleBaker * bakers;
+        //double totalEarnings = allBakers * campaignDays;
+        //double expenses = totalEarnings / 8;
+        //double profit = totalEarnings - expenses;
+        //System.out.printf("%.2f", profit);
+
+        //FRUIT MARKET PROBLEM
+        //Scanner scan = new Scanner(System.in);
+        //double strawberryPrice = Double.parseDouble(scan.nextLine());
+        //double berryPrice = strawberryPrice -  (strawberryPrice * 0.50);
+        //double orangePrice = berryPrice - (berryPrice * 0.40);
+        //double bananaPrice = berryPrice - (berryPrice * 0.80);
+
+        //double bananaKg = Double.parseDouble(scan.nextLine());
+        //double orangeKg = Double.parseDouble(scan.nextLine());
+        //double berryKg = Double.parseDouble(scan.nextLine());
+        //double strawberryKg = Double.parseDouble(scan.nextLine());
+        //double totalSum = bananaKg * bananaPrice + orangeKg * orangePrice + berryKg * berryPrice + strawberryKg * strawberryPrice;
+        //System.out.printf("%.2f",totalSum);
+
+    }
+}
+        
+        
+        
